@@ -1,4 +1,4 @@
----
+---yarn add react-router-dom
 id: installing-a-dependency
 title: Installing a Dependency
 ---
